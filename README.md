@@ -14,7 +14,6 @@ Projeto: 🚀Concluido
 ## 💻 Objetivo
  
  Está pagina foi criada treinar React e JS <br>
- Site da página disponivel em: 
 
 
 ## 🛠 Tecnologias
